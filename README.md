@@ -1,7 +1,7 @@
 # Signal-Analysis-Higgs-Boson
 Computational Numerical Methods: Optimisation of Signal Analysis in Discovering the Higgs Boson
 
-- Report available at: 
+- Report available at: https://github.com/mtwang0912/Signal-Analysis-Higgs-Boson/blob/main/02020640_Project2_Report.pdf
 
 # Project Overview
 This project, titled "Optimization of Signal Analysis in Discovering the Higgs Boson," aims to enhance the sensitivity of signal analysis in Higgs boson detection. It focuses on numerical integration methods to maximize average significance and establish optimal selection cuts for analysis at the Large Hadron Collider (LHC).
